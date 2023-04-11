@@ -1,0 +1,2 @@
+
+printf("Still, life sucks");
